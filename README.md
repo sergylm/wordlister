@@ -48,5 +48,3 @@ To use this script, ensure the following dependencies are installed on your syst
   - `beautifulsoup4`
 
         pip install request beatifulsoup4
-
-*Permissions: Sufficient privileges to run network scans (e.g., sudo access if required).*
